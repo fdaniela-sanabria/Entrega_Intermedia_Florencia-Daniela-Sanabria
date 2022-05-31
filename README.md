@@ -1,5 +1,3 @@
-# Entrega_Intermedia_Florencia-Daniela-Sanabria
-
 # Entrega Intermedia
 
 Orden de prueba y funcionalidades:

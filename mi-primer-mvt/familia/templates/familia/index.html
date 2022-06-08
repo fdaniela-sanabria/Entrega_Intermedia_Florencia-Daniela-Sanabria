@@ -7,6 +7,7 @@
 {# Display django.contrib.messages as Bootstrap alerts #}
 {% bootstrap_messages %}
 
+
   <!-- <esto es la cabecera/header> -->
     <ul class="nav bg-dark fixed">
       <li class="nav-item">
@@ -26,13 +27,17 @@
         {% if personas %}
         <table class="table">
             <thead>
-               
+              <style>
+                body{
+                  background: #adb5bd;
+                }
+              </style> 
             </thead>
         
             {% for p in personas %}
             <tbody>
                 <tr>
-                    
+                   
                 </tr>  
             </tbody>
             {% endfor %}
